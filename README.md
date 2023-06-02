@@ -11,7 +11,7 @@
 const leandro = {
   code: [Javascript, HTML, CSS],
   learning: [React, Bootstrap],
-  future: [php, mySQL, mongoDB, phyton],
+  future: [php, mySQL, mongoDB, python],
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
